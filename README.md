@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RUY28
+- 👋 Hi, I’m @RuoFei Yin
 - 👀 I’m interested in Biostaistics
 - 🌱 I’m currently learning Biostatistics
 - 💞️ I’m looking to collaborate on ...
